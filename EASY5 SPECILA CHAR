@@ -21,3 +21,6 @@ public class Splchar
 	}
 
 }
+
+#Enter a line: manu$
+$Number of special characters: 1
